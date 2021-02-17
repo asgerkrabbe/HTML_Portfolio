@@ -16,7 +16,7 @@ h1 {
 
 body {
     font-size: x-large;
-
+    background: beige;
     /*
     background-image: url('gamle mig.jpg');
     background-repeat: no-repeat;
@@ -58,6 +58,7 @@ h2 {
 
     font-family: "Times New Roman", serif;
 }
+
 
 footer {
     position: fixed;
